@@ -6,7 +6,7 @@ var $ = require('jquery');
 
 module.exports = function()
 {
-    //alert("HELLO!!");
+    alert("HELLO!!");
 
-    $("#hello").html('HI!');
+    //$("#hello").html('HI!');
 };
